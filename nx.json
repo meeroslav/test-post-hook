@@ -18,6 +18,7 @@
     "sharedGlobals": []
   },
   "plugins": [
+    "@org/nx-post-tasks-hook",
     {
       "plugin": "@nx/js/typescript",
       "options": {

@@ -1,0 +1,7 @@
+{
+  "name": "@org/nx-post-tasks-hook",
+  "version": "0.0.0",
+  "private": true,
+  "main": "index.js",
+  "nx": {}
+}
