@@ -11,7 +11,6 @@ permissions:
   contents: read
 
 env:
-  PNPM_HOME: ~/.pnpm
   COREPACK_DEFAULT_TO_LATEST: '0'
 
 jobs:
