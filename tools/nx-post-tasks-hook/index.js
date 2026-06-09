@@ -11,6 +11,6 @@ module.exports = {
   name: '@org/nx-post-tasks-hook',
   async postTasksExecution(_options, context) {
     log('[postTasksExecution context argv]');
-    log(context.argv);
+    log(Object.keys(context));
   },
 };
